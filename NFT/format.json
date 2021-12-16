@@ -1,0 +1,24 @@
+{
+  "name": "Solchick NFT",
+  "description": "This image shows accurate nature of NFT",
+  "image": "https://ipfs.io/ipfs/QmbrhEc6GFetaX1nP8KNmpbNhweNmUfqx8j6EmNU2sWHou",
+  "edition": 5,
+  "attributes": [
+    {
+      "trait_type": "Price",
+      "value": "0.01"
+    },
+    {
+      "trait_type": "Supply",
+      "value": "10000"
+    },
+    {
+      "trait_type": "Privileges",
+      "value": "Test1"
+    },
+    {
+      "trait_type": "Headgear",
+      "value": "No"
+    }
+  ]
+}
